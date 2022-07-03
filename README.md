@@ -1,8 +1,7 @@
 # basic-smart-contracts
 A repository with basic smart contracts written in solidity
 
-
-
+------------------------------------------------------------
 Bank sol:
   This smart contract has basic function like deposite and withdraw 
   It can also show updated balance
